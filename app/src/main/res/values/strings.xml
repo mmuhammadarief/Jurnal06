@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jurnal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="nilaiA">0</string>
+    <string name="nilaiB">0</string>
+    <string name="_3_poin">+3 POINT</string>
+    <string name="_2_poin">+2 POINT</string>
+    <string name="free_throwW">FREE THROW</string>
+    <string name="_3_point">+3 POINT</string>
+    <string name="_2_point">+2 POINT</string>
+    <string name="free_throw">FREE THROW</string>
+    <string name="reset">RESET</string>
+    <string name="result">RESULT</string>
+</resources>
